@@ -1,0 +1,9 @@
+ACH NUMBER, ACH NAME, ACH DESC, NUM OF LVLS (X), X VARIABLES..., X REWARDS...
+Number of times logged on #1,Frequent Player,Log into Sunday Morning Groovin {x} time(s) in total!,5,1,3,5,10,25,100,150,200,300,500
+Number of successful note hits #2,Seasoned Rapper,Successfully hit {x} notes in total (cumulative)!,8,10,300,500,1500,3000,5000,10000,20000,50,75,150,200,300,400,500,600,800
+Number of gems spent #3,Shopping Spree,Spend {x} of your precious gems at the Cosmetics shop!,5,500,1500,5000,10000,25000,50,150,250,500,800
+Accuracy high score #4,Concentration,Win a rap battle with greater than {x}% perfect accuracy!,5,75,85,90,93,97,50,75,100,150,300
+Number of great note hits #5,Great Rapper,Successfully hit {x} notes that score a "Great" in total (cumulative)!,6,100,300,1500,3000,7500,15000,50,100,150,250,400,600
+Highest note streak #6,Like Automation,Get a streak of {x} notes without missing a single one in between!,6,50,100,150,200,250,300,25,50,75,100,150,200
+Win weeks #7,Campaigning,Beat all songs on week {x} on Hard mode in Story Mode!,10,1,2,3,4,5,6,7,8,9,10,100,100,150,150,200,200,250,250,300,300
+(Unlock secret song) #8,Metacognition,Be mindful of the developers and designers who helped create SMG!,1,1,0,newsong,(s)
